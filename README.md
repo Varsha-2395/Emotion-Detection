@@ -55,11 +55,6 @@ This project integrates **computer vision** and **audio signal processing** to d
   - Classifies emotion using a basic trained SVM model (for demonstration).
   - Transcribes speech and detects language using `whisper`.
 
----
-
-## 📷 Example Use
-
-> You can add screenshots of an annotated image showing facial emotion detection and audio transcription results here.
 
 ---
 
@@ -78,13 +73,6 @@ This project integrates **computer vision** and **audio signal processing** to d
 
 ---
 
-## 👩‍💻 Author
-
-**Dimple**  
-B.E. CSE | Naan Mudhalvan Project 2025  
-[LinkedIn Profile] (optional)
-
----
 
 ## 📄 License
 
